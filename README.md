@@ -290,7 +290,7 @@ This challenge combines concepts from throughout the workbook.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/numpy-practice-workbook.git
+git clone https://github.com/vikasthamke/numpy-practice-workbook.git
 cd numpy-practice-workbook
 ```
 
