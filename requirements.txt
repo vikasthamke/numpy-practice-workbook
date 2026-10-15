@@ -1,1 +1,3 @@
-Jupyter
+numpy
+jupyter
+ipykernel
